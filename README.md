@@ -7,4 +7,6 @@
 - 📫 How to reach me: tahatuna777@gmail.com
 - ⚡ Fun fact: I like Slash.
 
+[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,cs,swift,)](https://skillicons.dev)
+
 ![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaTuna1&show_icons=true&theme=dracula)
