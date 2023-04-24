@@ -33,6 +33,6 @@ www.tahatuna.com
 
 My little practice playground
 
-![CurrencyViewGraph](https://user-images.githubusercontent.com/119931873/234128378-21adc94a-d9ec-4139-9f7f-174d015d769d.png)
+![github](https://user-images.githubusercontent.com/119931873/234130775-dcfed021-b8c7-4634-b63f-8add020607ff.jpg)
 
 More on the way!
