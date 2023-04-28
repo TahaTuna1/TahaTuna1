@@ -25,7 +25,8 @@ I'm Taha Tuna. Ex web developer, ex English teacher, current iOS developer! Curr
 
 - iOS Weather App
 
-![weatherss1](https://user-images.githubusercontent.com/119931873/235023809-34cfd4f8-6607-4f6a-9ab4-4b696aa77625.jpg)
+![weatherss1](https://user-images.githubusercontent.com/119931873/235025300-fcd65b4f-2ed2-4154-9f9b-b1ee7b46fbc2.jpg)
+
 
 - Taha Tuna Photography - Personal Website
 
