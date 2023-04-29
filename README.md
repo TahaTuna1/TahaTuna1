@@ -19,22 +19,23 @@ I'm Taha Tuna. Ex web developer, ex English teacher, current iOS developer! Curr
 
 ## Some Recent Projects
 
-- MacOS Menubar Currency Converter
+### MacOS Menubar Currency Converter
 
 ![ssBlueList](https://user-images.githubusercontent.com/119931873/234127748-514b193b-cb3d-425d-8e26-79a91c82fbfc.jpg)
 
-- iOS Weather App
+### iOS Weather App
 
-![weatherss1](https://user-images.githubusercontent.com/119931873/235025300-fcd65b4f-2ed2-4154-9f9b-b1ee7b46fbc2.jpg)
+![weatherss2](https://user-images.githubusercontent.com/119931873/235326306-10150ced-eaab-4819-a68d-a24fe909c94c.jpg)
 
 
-- Taha Tuna Photography - Personal Website
+
+### Taha Tuna Photography - Personal Website
 
 www.tahatuna.com
 
 ![Gallery](https://user-images.githubusercontent.com/119931873/234128232-b94983ea-a488-4528-8c59-d3ef75a772d9.jpg)
 
-- Currency Converter iOS -
+### Currency Converter iOS 
 
 My little practice playground
 
