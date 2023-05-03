@@ -19,6 +19,11 @@ I'm Taha Tuna. Ex web developer, ex English teacher, current iOS developer! Curr
 
 ## Some Recent Projects
 
+### Minimalist Stopwatch / Timer
+
+![stopWatchss1](https://user-images.githubusercontent.com/119931873/235822157-e17b3eb4-442e-49d3-9c30-10750a698ea3.jpg)
+
+
 ### MacOS Menubar Currency Converter
 
 ![ssBlueList](https://user-images.githubusercontent.com/119931873/234127748-514b193b-cb3d-425d-8e26-79a91c82fbfc.jpg)
