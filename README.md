@@ -1,10 +1,10 @@
 ## Greetings! 
 
-I'm Taha Tuna. Ex web developer, ex English teacher, current iOS developer! Currently building a portfolio of apps that look nice. Also playing lots of music and taking lots of photos. Projects below!
+I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps that look nice. Also playing lots of music and taking lots of photos. Projects below!
 
 - 🔭 I’m currently working on SwiftUI projects and my website.
 - 👯 I’m looking to collaborate on an instrument tuner using AudioKit.
-- 💬 Ask me about anything art related.
+
 - 📫 How to reach me: tahatuna777@gmail.com
 - ⚡ Fun fact: I like Slash.
 
