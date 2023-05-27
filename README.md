@@ -19,10 +19,10 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 ![CoffeeBrew](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/5f875315-075d-4833-9542-693c9aa76bc0)
 ![coffeebrew](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/e741eeb0-146a-4ac7-97eb-8ea21d44a9e7)
 
-| Custom Shapes | Animations | MVVM  |
-|:------------- |:-------------:| -----:|
-| Minimal UI  | 4 Stock Brewers | Time Indicators |
-| Environment Object | Custom Brewers | TabView |
+| Custom Shape/Path | AVFoundation | MVVM  |
+|:------------- |:-------------:| --------:|
+| Minimal UI  | Animations | Ticking Timer |
+| Environment Object | Custom/Default Brewers | TabView-NavStack |
 
 ### MacOS Menubar Currency Converter
 
