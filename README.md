@@ -16,7 +16,7 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 # Some Recent Projects
 
 ### Minimalist Coffee Brew Timer (Private - Soon on the AppStore!)
-![CoffeeBrew](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/5f875315-075d-4833-9542-693c9aa76bc0)
+![CoffeeBrew](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/4df45851-b909-4568-b32e-428898f83c8a)
 ![coffeebrew](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/e741eeb0-146a-4ac7-97eb-8ea21d44a9e7)
 
 | Custom Shape/Path | AVFoundation | MVVM  |
