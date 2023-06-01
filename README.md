@@ -4,14 +4,13 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 
 - 🔭 I’m currently working on SwiftUI projects and my website.
 - 👯 I’m looking to collaborate on an instrument tuner using AudioKit.
-
-- 📫 How to reach me: tahatuna777@gmail.com
+- 📫 E-Mail: tahatuna777@gmail.com
+- 📫 Linkedin: www.linkedin.com/in/alitahatuna/
+- 📫 Website: www.tahatuna.com
 - ⚡ Fun fact: I like Slash.
 
 [![Skills](https://skillicons.dev/icons?i=swift,cs,html,css,js,nodejs)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=blender,figma,git,ps,unity)](https://skillicons.dev)
-
-![Tuna's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahaTuna1&show_icons=true&theme=dracula)
 
 # Some Recent Projects
 
