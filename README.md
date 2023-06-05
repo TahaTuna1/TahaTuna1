@@ -48,6 +48,12 @@ www.tahatuna.com
 | JSON  | Masonry Grid | Contact Form |
 | Mobile Friendly | Google Analytics | Labour of Love |
 
+### Simple Budget
+
+Stopped working on it after a day to focus on releasing the Coffee Timer app. UI only.
+![basicUI](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/eb556a18-c23e-45ff-9416-697763ad3146)
+
+
 ### Currency Converter iOS 
 
 ![Converter1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/4d952dd5-012c-4777-b588-81db2fcc323f)
