@@ -48,6 +48,12 @@ www.tahatuna.com
 | JSON  | Masonry Grid | Contact Form |
 | Mobile Friendly | Google Analytics | Labour of Love |
 
+### Folder Image Scanner Utility - Personal App
+
+![folderscannerss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/8b2c64d4-5e9e-47de-a517-403acb7b5a7b)
+| JSON | AppKit | File Manager  |
+|:------------- |:-------------:| -----:|
+
 ### Simple Budget
 
 Stopped working on it after a day to focus on releasing the Coffee Timer app. UI only.
