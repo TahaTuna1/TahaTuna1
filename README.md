@@ -23,7 +23,7 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 | Minimal UI  | Animations | Ticking Timer |
 | Environment Object | Custom/Default Brewers | TabView-NavStack |
 
-### MacOS Menubar Currency Converter
+### MacOS Menubar Currency Converter (Soon on the AppStore!)
 
 ![ssBlueList](https://user-images.githubusercontent.com/119931873/234127748-514b193b-cb3d-425d-8e26-79a91c82fbfc.jpg)
 | 2 themes | MacOS Menubar | MVVM  |
