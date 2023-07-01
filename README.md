@@ -24,8 +24,7 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 | Environment Object | Custom/Default Brewers | TabView-NavStack |
 
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
-
-![ssBlueList](https://user-images.githubusercontent.com/119931873/234127748-514b193b-cb3d-425d-8e26-79a91c82fbfc.jpg)
+![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
 | 2 themes | MacOS Menubar | MVVM  |
 |:------------- |:-------------:| -----:|
 | Animations  | Selectable Currencies | Last Update |
