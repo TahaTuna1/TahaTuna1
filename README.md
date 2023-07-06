@@ -18,9 +18,9 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 ![onboardingAll](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/aafd8b83-a0b5-408a-a02d-7c9678598cfc)
 ![guthib](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/1a9ec06c-f309-4702-835e-d028c864214d)
 
-| Custom Shape/Path | AVFoundation | MVVM  |
+| Custom Timer UI | Onboarding | MVVM  |
 |:------------- |:-------------:| --------:|
-| Minimal UI  | Animations | Ticking Timer |
+| Request Review  | Animations | UserDefaults |
 | Environment Object | Custom/Default Brewers | TabView-NavStack |
 
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
