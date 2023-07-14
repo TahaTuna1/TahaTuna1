@@ -14,14 +14,15 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 
 # Some Recent Projects
 
-### MugShot - Coffee Brew Timer (Almost on the AppStore!)
+### MugShot - Coffee Brew Timer (Released on the AppStore!)
+https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 ![onboardingAll](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/aafd8b83-a0b5-408a-a02d-7c9678598cfc)
 ![guthib](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/1a9ec06c-f309-4702-835e-d028c864214d)
 
 | Custom Timer UI | Onboarding | MVVM  |
 |:------------- |:-------------:| --------:|
 | Request Review  | Animations | UserDefaults |
-| Environment Object | Custom/Default Brewers | TabView-NavStack |
+| Environment Object | Notifications | TabView-NavStack |
 
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
 ![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
