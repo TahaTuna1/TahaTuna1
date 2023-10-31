@@ -2,9 +2,7 @@
 
 I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps that look nice. Also playing lots of music and taking lots of photos. Projects below!
 
-- 🔭 I’m currently working on SwiftUI projects and my website.
-- 👯 I’m looking to collaborate on an instrument tuner using AudioKit.
-- 📫 E-Mail: tahatuna777@gmail.com
+- 📫 E-Mail: ios@tahatuna.com
 - 📫 Linkedin: www.linkedin.com/in/alitahatuna/
 - 📫 Website: www.tahatuna.com
 - ⚡ Fun fact: I like Slash.
@@ -28,7 +26,7 @@ Redesigned by me, new features such as templates, overlays, and filters develope
 | Luts  | Image Processing | Filters |
 | Crop  | Recipes | Templates |
 
-### MugShot - Coffee Brew Timer (Released on the AppStore!)
+### MugShot - Coffee Brew Timer - Available on the App Store
 https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 ![onboardingAll](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/aafd8b83-a0b5-408a-a02d-7c9678598cfc)
 ![guthib](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/1a9ec06c-f309-4702-835e-d028c864214d)
