@@ -14,6 +14,20 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 
 # Some Recent Projects
 
+### Chrome - Soon on the App Store!
+![chrome](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/a445856d-9586-4150-9d6e-5ac7226965d3)
+| Core Image | Core Data | MVVM  |
+|:------------- |:-------------:| --------:|
+| Luts  | Image Processing | Filters |
+
+### Re-Do. Available on The App Store.
+Redesigned by me, new features such as templates, overlays, and filters developed by me. I do not own Re-Do.
+![redoPhoto](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/2b702434-6610-4520-8f9e-263ac48a0aa7)
+| Core Image | Core Data | MVC  |
+|:------------- |:-------------:| --------:|
+| Luts  | Image Processing | Filters |
+| Crop  | Recipes | Templates |
+
 ### MugShot - Coffee Brew Timer (Released on the AppStore!)
 https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 ![onboardingAll](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/aafd8b83-a0b5-408a-a02d-7c9678598cfc)
