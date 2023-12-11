@@ -12,7 +12,7 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 
 # Some Recent Projects
 
-### Chrome - Soon on the App Store!
+### Coloroid - Soon on the App Store!
 ![chrome](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/a445856d-9586-4150-9d6e-5ac7226965d3)
 | Core Image | Core Data | MVVM  |
 |:------------- |:-------------:| --------:|
