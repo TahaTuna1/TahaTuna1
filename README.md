@@ -12,11 +12,12 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 
 # Some Recent Projects
 
-### Coloroid - Soon on the App Store!
-![chrome](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/a445856d-9586-4150-9d6e-5ac7226965d3)
+### Coloroid - Available on the App Store!
+![chrome](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/575c34a1-a02b-4e3b-825a-74e4c0125cd9)
 | Core Image | Core Data | MVVM  |
 |:------------- |:-------------:| --------:|
 | Luts  | Image Processing | Filters |
+| RevenueCat  | StoreKit | UIKit |
 
 ### Re-Do. Available on The App Store.
 Redesigned by me, new features such as templates, overlays, and filters developed by me. I do not own Re-Do.
