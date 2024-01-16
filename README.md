@@ -38,6 +38,13 @@ https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 | Request Review  | Animations | UserDefaults |
 | Environment Object | Notifications | TabView-NavStack |
 
+### MacOS Menubar AI Assistant
+![ss1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/6c5eaaca-dc02-483c-9cae-677bfc158b4c)
+| GPT 4 & 3.5 | Dall-E 2 & 3 | SwiftUI  |
+|:------------- |:-------------:| -----:|
+| MenuBarExtra  | Version Selector | Concurrency |
+| OpenAI API | Async Image | Save Image |
+
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
 ![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
 | 2 themes | MacOS Menubar | MVVM  |
