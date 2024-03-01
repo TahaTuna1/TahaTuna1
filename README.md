@@ -7,7 +7,7 @@ I'm Taha Tuna. Ex web developer, current iOS developer! Currently building apps 
 - 📫 Website: www.tahatuna.com
 - ⚡ Fun fact: I like Slash.
 
-[![Skills](https://skillicons.dev/icons?i=swift,cs,html,css,js,nodejs)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=swift,cs,py,html,css,tailwind,js,nodejs)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=blender,figma,git,ps,unity)](https://skillicons.dev)
 
 # Some Recent Projects
