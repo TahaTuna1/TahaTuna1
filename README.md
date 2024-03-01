@@ -22,9 +22,10 @@ https://apps.apple.com/us/app/coloroid-film-simulator/id6472733332
 
 ### Launch Studio - Online! 
 https://launchstudio.pro
+
 ![launchstudio](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/7c64434a-f57a-4c77-b848-7f064165e9bb)
 | HTML | Tailwind CSS | JavaScript  |
-
+|:------------- |:-------------:| --------:|
 
 ### Re-Do. Available on The App Store.
 Redesigned by me, new features such as templates, overlays, and filters developed by me. I do not own Re-Do.
