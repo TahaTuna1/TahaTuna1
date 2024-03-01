@@ -20,6 +20,12 @@ https://apps.apple.com/us/app/coloroid-film-simulator/id6472733332
 | Luts  | Image Processing | Filters |
 | RevenueCat  | StoreKit | UIKit |
 
+### Launch Studio - Online! 
+https://launchstudio.pro
+![launchstudio](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/7c64434a-f57a-4c77-b848-7f064165e9bb)
+| HTML | Tailwind CSS | JavaScript  |
+
+
 ### Re-Do. Available on The App Store.
 Redesigned by me, new features such as templates, overlays, and filters developed by me. I do not own Re-Do.
 ![redoPhoto](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/2b702434-6610-4520-8f9e-263ac48a0aa7)
@@ -27,6 +33,13 @@ Redesigned by me, new features such as templates, overlays, and filters develope
 |:------------- |:-------------:| --------:|
 | Luts  | Image Processing | Filters |
 | Crop  | Recipes | Templates |
+
+### MacOS Menubar AI Assistant
+![ss1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/6c5eaaca-dc02-483c-9cae-677bfc158b4c)
+| GPT 4 & 3.5 | Dall-E 2 & 3 | SwiftUI  |
+|:------------- |:-------------:| -----:|
+| MenuBarExtra  | Version Selector | Concurrency |
+| OpenAI API | Async Image | Save Image |
 
 ### MugShot - Coffee Brew Timer - Available on the App Store
 https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
@@ -37,13 +50,6 @@ https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 |:------------- |:-------------:| --------:|
 | Request Review  | Animations | UserDefaults |
 | Environment Object | Notifications | TabView-NavStack |
-
-### MacOS Menubar AI Assistant
-![ss1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/6c5eaaca-dc02-483c-9cae-677bfc158b4c)
-| GPT 4 & 3.5 | Dall-E 2 & 3 | SwiftUI  |
-|:------------- |:-------------:| -----:|
-| MenuBarExtra  | Version Selector | Concurrency |
-| OpenAI API | Async Image | Save Image |
 
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
 ![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
