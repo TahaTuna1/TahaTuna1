@@ -56,27 +56,12 @@ www.tahatuna.com
 | JSON  | Masonry Grid | Contact Form |
 | Mobile Friendly | Google Analytics | Labour of Love |
 
-### Launch Studio - Online! 
-https://launchstudio.pro
-
-![launchstudio](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/7c64434a-f57a-4c77-b848-7f064165e9bb)
-| HTML | Tailwind CSS | JavaScript  |
-|:------------- |:-------------:| --------:|
-
 ### MacOS Menubar Currency Converter (Soon on the AppStore!)
 ![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
 | 2 themes | MacOS Menubar | MVVM  |
 |:------------- |:-------------:| -----:|
 | Animations  | Selectable Currencies | Last Update |
 | Rest API | JSON | Rate Refresh |
-
-### iOS Weather App
-
-![weatherFinalss](https://user-images.githubusercontent.com/119931873/235505315-0eaa8bba-e73b-44f3-a6c0-37fbbb5a53f2.jpg)
-| CoreLocation | LoadingView | MVVM  |
-|:------------- |:-------------:| -----:|
-| Hourly Forecast  | Minimal UI | Last Update |
-| Background Switch | JSON | Rest API |
 
 ### Folder Image Scanner Utility - Personal App
 
