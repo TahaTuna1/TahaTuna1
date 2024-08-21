@@ -10,7 +10,7 @@ I'm Taha Tuna. Ex Web developer, current iOS developer! Currently building apps 
 [![Skills](https://skillicons.dev/icons?i=swift,cs,py,html,css,tailwind,js,nodejs)](https://skillicons.dev)
 [![Skills](https://skillicons.dev/icons?i=blender,figma,git,ps,unity)](https://skillicons.dev)
 
-# Some Recent Projects
+# Recent Projects
 
 ### Coloroid - Available on the App Store!
 https://www.coloroid.pro
@@ -68,20 +68,4 @@ www.tahatuna.com
 ![folderscannerss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/8b2c64d4-5e9e-47de-a517-403acb7b5a7b)
 | JSON | AppKit | File Manager  |
 |:------------- |:-------------:| -----:|
-
-### Simple Budget
-
-Stopped working on it after a day to focus on releasing the Coffee Timer app. UI only.
-![basicUI](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/eb556a18-c23e-45ff-9416-697763ad3146)
-
-
-### Currency Converter iOS 
-
-![Converter1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/4d952dd5-012c-4777-b588-81db2fcc323f)
-| User Defaults | SwiftUI Charts | MVVM  |
-|:------------- |:-------------:| -----:|
-| Email/Date Format  | Selectable Currencies | Picker |
-| Rest API | JSON | Rate Refresh |
-
-
 More on the way!
