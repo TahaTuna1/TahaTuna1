@@ -1,16 +1,18 @@
 ## Greetings! 
 
-I'm Taha Tuna. Ex Web developer, current iOS developer! Currently building apps that look nice. Also playing lots of music and taking lots of photos. Projects below!
-
 - 📫 E-Mail: ios@tahatuna.com
 - 📫 Linkedin: www.linkedin.com/in/alitahatuna/
 - 📫 Website: www.tahatuna.com
-- ⚡ Fun fact: I like Slash.
-
-[![Skills](https://skillicons.dev/icons?i=swift,cs,py,html,css,tailwind,js,nodejs)](https://skillicons.dev)
-[![Skills](https://skillicons.dev/icons?i=blender,figma,git,ps,unity)](https://skillicons.dev)
 
 # Recent Projects
+
+### Inkwave! - Almost on the App Store!
+https://www.inkwave.pro
+![inkwave_display](https://github.com/user-attachments/assets/ffcc4808-5078-44e8-9fd6-85ba736e51b2)
+| PencilKit | Firebase | Cloudflare Workers  |
+|:------------- |:-------------:| --------:|
+| FireStore  | Image Generation | Consumable IAP |
+| RevenueCat  | Stable Diffusion | SwiftUI |
 
 ### Coloroid - Available on the App Store!
 https://www.coloroid.pro
