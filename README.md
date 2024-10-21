@@ -40,7 +40,6 @@ Redesigned by me, new features such as templates, overlays, and filters develope
 
 ### MugShot - Coffee Brew Timer - Available on the App Store
 https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
-![onboardingAll](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/aafd8b83-a0b5-408a-a02d-7c9678598cfc)
 ![guthib](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/1a9ec06c-f309-4702-835e-d028c864214d)
 
 | Custom Timer UI | Onboarding | MVVM  |
@@ -57,17 +56,3 @@ www.tahatuna.com
 |:------------- |:-------------:| -----:|
 | JSON  | Masonry Grid | Contact Form |
 | Mobile Friendly | Google Analytics | Labour of Love |
-
-### MacOS Menubar Currency Converter (Soon on the AppStore!)
-![paywallss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/f3e9ba78-f7cf-4e05-a4d2-30727d3f8792)
-| 2 themes | MacOS Menubar | MVVM  |
-|:------------- |:-------------:| -----:|
-| Animations  | Selectable Currencies | Last Update |
-| Rest API | JSON | Rate Refresh |
-
-### Folder Image Scanner Utility - Personal App
-
-![folderscannerss](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/8b2c64d4-5e9e-47de-a517-403acb7b5a7b)
-| JSON | AppKit | File Manager  |
-|:------------- |:-------------:| -----:|
-More on the way!
