@@ -6,8 +6,9 @@
 
 # Recent Projects
 
-### Inkwave! - Almost on the App Store!
+### Inkwave! - Available on the App Store!
 https://www.inkwave.pro
+https://apps.apple.com/us/app/ai-photo-generator-inkwave/id6736508612
 ![inkwave_display](https://github.com/user-attachments/assets/ffcc4808-5078-44e8-9fd6-85ba736e51b2)
 | PencilKit | Firebase | Cloudflare Workers  |
 |:------------- |:-------------:| --------:|
