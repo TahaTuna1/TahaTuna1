@@ -6,6 +6,15 @@
 
 # Recent Projects
 
+### Basil! - Join the Waitlist
+Basil scans a selected area to generate leads for businesses.
+https://trybasil.cc
+![macbookDisplay](https://github.com/user-attachments/assets/0f313f14-874a-49ab-aa2a-cedb1a279a73)
+| MapKit | CoreLocation | AppKit  |
+|:------------- |:-------------:| --------:|
+| SupaBase  | Cloudflare Workers | React |
+| Google Maps  | Cloudflare Pages | Tailwind |
+
 ### Inkwave! - Available on the App Store!
 https://www.inkwave.pro
 https://apps.apple.com/us/app/ai-photo-generator-inkwave/id6736508612
@@ -32,14 +41,8 @@ Redesigned by me, new features such as templates, overlays, and filters develope
 | Luts  | Image Processing | Filters |
 | Crop  | Recipes | Templates |
 
-### MacOS Menubar AI Assistant
-![ss1](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/6c5eaaca-dc02-483c-9cae-677bfc158b4c)
-| GPT 4 & 3.5 | Dall-E 2 & 3 | SwiftUI  |
-|:------------- |:-------------:| -----:|
-| MenuBarExtra  | Version Selector | Concurrency |
-| OpenAI API | Async Image | Save Image |
 
-### MugShot - Coffee Brew Timer - Available on the App Store
+### MugShot - Coffee Timer - Available on the App Store
 https://apps.apple.com/app/mugshot-coffee-brew-timer/id6451087622
 ![guthib](https://github.com/TahaTuna1/TahaTuna1/assets/119931873/1a9ec06c-f309-4702-835e-d028c864214d)
 
