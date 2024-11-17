@@ -15,6 +15,15 @@ https://trybasil.cc
 | SupaBase  | Cloudflare Workers | React |
 | Google Maps  | Cloudflare Pages | Tailwind |
 
+
+### BasilByte! - Get yourself a Website FAST
+I will make a custom website for you, faster than anyone.
+https://basilbyte.org
+![Screenshot 2024-11-17 at 09 47 33](https://github.com/user-attachments/assets/54c15b68-9bf3-4916-b095-d7aef1511f07)
+| React | CloudFlare | Tailwind  |
+|:------------- |:-------------:| --------:|
+
+
 ### Inkwave! - Available on the App Store!
 https://www.inkwave.pro
 https://apps.apple.com/us/app/ai-photo-generator-inkwave/id6736508612
