@@ -6,6 +6,15 @@
 
 # Recent Projects
 
+### Film Camera Experience, In Your Pocket
+A photo editor built from scratch, using Metal.
+![intantCamera](https://github.com/user-attachments/assets/8747adea-1911-4c4d-acf1-e0fbb69484c7)
+
+| Metal | CoreImage | CoreGraphics  |
+|:------------- |:-------------:| --------:|
+| Custom LUTs  | AVFoundation | Custom Presets |
+
+
 ### Basil! - Join the Waitlist
 Basil scans a selected area to generate leads for businesses.
 https://trybasil.cc
